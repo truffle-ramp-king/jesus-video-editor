@@ -1,0 +1,15 @@
+.env
+.DS_Store
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+runs/
+*.pyc
+.env.*
+!.env.example
+dist/
+build/
+*.egg-info/
+*.mp4
+!trailer_editor/assets/beige-overlay.mp4
